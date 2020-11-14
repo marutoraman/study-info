@@ -13,3 +13,5 @@
 環境構築は以下を参考にお願いします。
 https://qiita.com/wakoit/items/0effb344481bd1c89a7b
 ## 課題１  https://github.com/marutoraman/study101-django-basic
+## 課題２  https://github.com/marutoraman/study102-django-tables
+## 課題３  https://github.com/marutoraman/study103-django-login
