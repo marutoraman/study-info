@@ -11,7 +11,11 @@
 
 # Djangoの課題
 環境構築は以下を参考にお願いします。
-https://qiita.com/wakoit/items/0effb344481bd1c89a7b
+https://qiita.com/wakoit/items/0effb344481bd1c89a7b <br>
+基本事項は以下のチュートリアルで学習してください。
+https://docs.djangoproject.com/ja/3.1/intro/tutorial01/ <br>
+(有料)Udemyの素晴らしい講座です。有料ですがキャンペーン実施中を狙って購入をおすすめします。
+https://www.udemy.com/course/django-3app/
 ## 課題１  https://github.com/marutoraman/study101-django-basic
 ## 課題２  https://github.com/marutoraman/study102-django-tables
 ## 課題３  https://github.com/marutoraman/study103-django-login
