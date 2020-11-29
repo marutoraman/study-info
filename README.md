@@ -17,7 +17,7 @@ https://docs.microsoft.com/ja-jp/learn/modules/python-install-vscode/<br>
 # Pythonの課題　案件で超使える編
 ## 課題１(Amazon) https://github.com/marutoraman/study-201-amazon.git
 
-# Djangoの課題
+# Djangoの課題(プレミアムプラン限定)
 環境構築は以下を参考にお願いします。
 https://qiita.com/wakoit/items/0effb344481bd1c89a7b <br>
 基本事項は以下のチュートリアルで学習してください。
