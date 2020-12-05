@@ -2,11 +2,15 @@
 ご自身のご希望に合わせてPython、Djangoの課題に取り組んでいただければと思います。
 
 # Pythonの課題
-Pythonの基本構文を習得されていない方は以下より学習をお願いします。
+Pythonの基本構文を習得されていない方は以下より学習をお願いします。<br>
 https://prog-8.com/languages/python<br>
-環境構築は以下を参考にお願いします。
-一部動画ではAnacondaを勧めるものがございますが、一部のモジュールとの相性が悪いため当方は推奨しておりません。
+環境構築は以下を参考にお願いします。<br>
+一部動画ではAnacondaを勧めるものがございますが、一部のモジュールとの相性が悪いため当方は推奨しておりません。<br>
 https://docs.microsoft.com/ja-jp/learn/modules/python-install-vscode/<br>
+
+※注意事項<BR>
+課題３以降で必要なモジュールのeelはpython3.9では動作しないため、pythonは3.8系を利用してください。
+  
 ## 課題１  https://github.com/marutoraman/study-01-search
 ## 課題２  https://github.com/marutoraman/study-02-selenium
 ## 課題３  https://github.com/marutoraman/study-03-desktop-01
