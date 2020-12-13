@@ -22,7 +22,7 @@ https://docs.microsoft.com/ja-jp/learn/modules/python-install-vscode/<br>
 ## 課題７  https://github.com/marutoraman/study-07-translate
 ## 課題８  https://github.com/marutoraman/study-09-threading
 
-# Djangoの課題(プレミアムプラン限定)
+# Djangoの課題(プレミアムプラン、弟子プラン限定)
 環境構築は以下を参考にお願いします。
 https://qiita.com/wakoit/items/0effb344481bd1c89a7b <br>
 基本事項は以下のチュートリアルで学習してください。
