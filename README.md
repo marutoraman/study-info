@@ -9,8 +9,10 @@ https://prog-8.com/languages/python<br>
 https://docs.microsoft.com/ja-jp/learn/modules/python-install-vscode/<br>
 
 ※注意事項<BR>
-課題３以降で必要なモジュールのeelはpython3.9では動作しないため、pythonは3.8系を利用してください。
-  
+課題３以降で必要なモジュールのeelはpython3.9では動作しないため、pythonは3.8系を利用してください。<br>
+課題０に関しては、文法を学んだばかりの初学者さん向けのため、不要な方はスキップしてください。
+
+## 課題０  https://github.com/marutoraman/study-0.1-bunpou
 ## 課題１  https://github.com/marutoraman/study-01-search
 ## 課題２  https://github.com/marutoraman/study-02-selenium
 ## 課題３  https://github.com/marutoraman/study-03-desktop-01
