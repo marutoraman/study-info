@@ -21,6 +21,7 @@ https://docs.microsoft.com/ja-jp/learn/modules/python-install-vscode/<br>
 ## 課題６  https://github.com/marutoraman/study-06-api
 ## 課題７  https://github.com/marutoraman/study-07-translate
 ## 課題８  https://github.com/marutoraman/study-09-threading
+## 課題９　https://github.com/marutoraman/study-09-tweet-bot.git
 
 # Djangoの課題(プレミアムプラン、弟子プラン限定)
 環境構築は以下を参考にお願いします。
