@@ -23,6 +23,9 @@ https://docs.microsoft.com/ja-jp/learn/modules/python-install-vscode/<br>
 ## 課題８  https://github.com/marutoraman/study-09-threading
 ## 課題９　https://github.com/marutoraman/study-09-tweet-bot.git
 
+## eelでexcel風にセル編集を行うツールのサンプル
+https://github.com/marutoraman/handsontable
+
 # Djangoの課題(プレミアムプラン、弟子プラン限定)
 環境構築は以下を参考にお願いします。
 https://qiita.com/wakoit/items/0effb344481bd1c89a7b <br>
