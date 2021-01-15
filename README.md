@@ -26,6 +26,9 @@ https://docs.microsoft.com/ja-jp/learn/modules/python-install-vscode/<br>
 ## eelでexcel風にセル編集を行うツールのサンプル
 https://github.com/marutoraman/handsontable
 
+## 作成したプログラムをexe化してpythonなしでも実行できるようにする
+https://github.com/marutoraman/pyinstaller
+
 # Djangoの課題(プレミアムプラン、弟子プラン限定)
 環境構築は以下を参考にお願いします。
 https://qiita.com/wakoit/items/0effb344481bd1c89a7b <br>
