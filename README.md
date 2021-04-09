@@ -30,6 +30,10 @@ https://github.com/marutoraman/handsontable
 ## 作成したプログラムをexe化してpythonなしでも実行できるようにする
 https://github.com/marutoraman/pyinstaller
 
+# 提案練習
+以下の案件の要件をよく読み、提案文を作成してください<BR>
+https://www.lancers.jp/work/detail/3550306
+
 # Djangoの課題(プレミアムプラン、弟子プラン限定)
 環境構築は以下を参考にお願いします。
 https://qiita.com/wakoit/items/0effb344481bd1c89a7b <br>
